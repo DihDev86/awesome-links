@@ -1,1 +1,2 @@
 Alteração via github 2
+Alteração via VsCode (segunda)
